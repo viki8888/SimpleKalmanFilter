@@ -3,11 +3,12 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "radio": "*",
+        "servo": "*"
     },
     "files": [
-        "main.ts",
-        "README.md"
+        "README.md",
+        "SimpleKalmanFilter.ts"
     ],
     "testFiles": [
         "test.ts"
